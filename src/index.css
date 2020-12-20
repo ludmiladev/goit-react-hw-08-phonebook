@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+  background: e7ecf2;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+span,
+svg {
+  vertical-align: middle;
+}
+.nav {
+  margin-right: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  color: grey;
+}
+.active-nav {
+  color: #4caf50;
+}
+form {
+  display: flex;
+  padding: 10px;
+  width: 260px;
+  flex-direction: column;
+  align-items: baseline;
+  border: 1px solid #4caf50;
+}
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 7px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+}
+
+input {
+  margin: 10px 0 10px;
+}
+
+li {
+  list-style: none;
+  height: 55px;
+}
+
+.name {
+  padding-left: 15px;
+}
+ul {
+  margin-top: 20px;
+  padding: 0;
+}
