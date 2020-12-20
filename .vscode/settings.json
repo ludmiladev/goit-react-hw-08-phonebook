@@ -1,0 +1,7 @@
+{
+    "editor.suggest.maxVisibleSuggestions": 15,
+    "editor.minimap.scale": 3,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.size": "fill",
+    "editor.minimap.enabled": false
+}
